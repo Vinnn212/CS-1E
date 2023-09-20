@@ -1,0 +1,13 @@
+name = input("Your name:")
+course = input("Your course:")
+section = input("Your section:")
+age = str(input("Your age:"))
+birthday = str(input("Birthday:"))
+address = input("Your address:")
+
+print("name:", name)
+print("course:", course)
+print("section:", section)
+print("age:", age)
+print("birthday:", birthday)
+print("address:", address)
